@@ -32,6 +32,12 @@ npm run dev
 
 ![Captura desde 2024-05-15 21-31-45](https://github.com/sergioab7/sprint4-new/assets/10132565/f25b89c6-24b4-42d4-a251-0e13fe623f60)
 
+## Variables entorno (.env)
+
+![Captura desde 2024-05-15 21-37-31](https://github.com/sergioab7/sprint4-new/assets/10132565/bac0d3eb-89e8-4eda-a5b4-cdf7112ef658)
+
+
+
 ### Rutas de la aplicación 🚏
 
 _Actualizar el estado (completado) - PUT_
