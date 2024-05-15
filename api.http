@@ -1,0 +1,21 @@
+### GET obtener tareas
+GET http://localhost:4002/crud/mostrar-tareas
+
+### GET obtener tarea con ID
+GET http://localhost:4002/crud/mostrar-tarea/2d96d271-95d4-46a7-9794-987c1fd51e7a
+
+### POST agregar tareas
+POST http://localhost:4002/crud/agregar-tarea
+Content-Type: application/json
+
+{
+    "nombreTarea":"Comprar pan"
+}
+
+### PUT ACTUALIZAR TAREA
+PUT http://localhost:4002/crud/actualizar-tarea/a492c8d7-810c-45a9-b0c4-879368a21857
+
+### DELETE TAREA
+DELETE http://localhost:4002/crud/borrar-tarea/a492c8d7-810c-45a9-b0c4-879368a21857
+
+
